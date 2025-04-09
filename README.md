@@ -13,7 +13,7 @@ This is a simple C++ Project that helps commuters navigate the DMRC network. It 
 
 * **Represent a metro station**
 * **Contain information about the station, including:**
-	+ Name
+	+ Name 
 	+ Metro corridor
 	+ Lines connected to the station
 
